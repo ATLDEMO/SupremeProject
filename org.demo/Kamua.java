@@ -7,6 +7,7 @@ public class Kamua {
 		
 		System.out.println("this is demo project1");
 		System.out.println("this is demo project1 for second user");
+		System.out.println("this is demo project1 for third user");
 		
 
 	}
